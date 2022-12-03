@@ -1,7 +1,5 @@
-# Actual ignored paths for this repo
-db.json
-dbList.json
-.guild_dbs/
+# IDE
+.idea/
 
 # Logs
 logs
@@ -111,7 +109,6 @@ dist
 
 # Etc
 dev-config.js
-db.json
-yarn.lock
-package-lock.json
-.idea/
+a.js
+guild.json
+.vscode
